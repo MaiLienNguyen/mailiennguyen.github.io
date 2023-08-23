@@ -13,12 +13,16 @@
       {
         "title": "React portfolio",
         "startDate": "2023",
+
         "description": "A React portfolio template designed for usage by other GitHub users. The template features distinct sections such as About, Projects, Skills, and Experience. It also offers support for multiple languages and the option to switch between light and dark themes.",
+
         "images": [
           "images/portfolio/react-portfolio/pr1.jpg",
           "images/portfolio/react-portfolio/pr2.jpg"
         ],
+
         "url": "https://github.com/blueneons/intern-portfolio",
+
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -29,29 +33,34 @@
             "name": "JavaScript"
           },
           {
+
             "class": "devicon-sass-plain",
             "name": "Sass"
           },
           {
             "class": "devicon-github-plain",
             "name": "GitHub"
+
           }
         ]
       },
       {
         "title": "Flutter e-commerce app",
         "startDate": "2023",
+
         "description": "Personal project for study subject. I was responsible for designing and coding UI-UX for application that involves creating a visually appealing and user-friendly interface for the application while considering how users will interact with it",
         "images": [
           "images/portfolio/e-commerce_app/e-commerce_app1.png",
           "images/portfolio/e-commerce_app/e-commerce_app2.png",
           "images/portfolio/e-commerce_app/e-commerce_app3.png"
+
         ],
         "url": "https://github.com/hieu20022002/ecommerce",
         "technologies": [
           {
             "class": "devicon-flutter-plain",
             "name": "Flutter"
+
           },
           {
             "class": "devicon-dart-plain",
@@ -64,6 +73,7 @@
           {
             "class": "devicon-github-plain",
             "name": "GitHub"
+
           }
         ]
       }
