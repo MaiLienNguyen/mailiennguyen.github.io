@@ -33,14 +33,12 @@
             "name": "JavaScript"
           },
           {
-
             "class": "devicon-sass-plain",
             "name": "Sass"
           },
           {
             "class": "devicon-github-plain",
             "name": "GitHub"
-
           }
         ]
       },
@@ -73,7 +71,6 @@
           {
             "class": "devicon-github-plain",
             "name": "GitHub"
-
           }
         ]
       }
