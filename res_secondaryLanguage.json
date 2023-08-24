@@ -1,0 +1,104 @@
+{
+    "basic_info": {
+      "description_header": "Xin chào",
+      "description": "👋 Tôi là Mai Liên Nguyễn. Tôi đang làm việc với những framework front-end mới nhất như Flutter và React. Những gì bạn đang thấy bây giờ là mẫu portfolio từ Dorota1997. Nếu bạn thích mẫu portfolio này, hãy nhấn ⭐ trên kho lưu trữ để làm cho nó dễ nhận biết hơn đối với người dùng khác. Cảm ơn bạn 💜",
+      "section_name": {
+        "about": "Về tôi",
+        "projects": "Các dự án",
+        "skills": "Kĩ năng",
+        "experience": "Kinh nghiệm"
+      }
+    },
+    "projects": [
+      {
+        "title": "React portfolio",
+        "startDate": "2023",
+        "description": "Một mẫu portfolio React được thiết kế để sử dụng bởi các người dùng GitHub khác. Mẫu này bao gồm các phần riêng biệt như Giới thiệu, Dự án, Kỹ năng và Kinh nghiệm. Nó cũng hỗ trợ nhiều ngôn ngữ và cho phép chọn chế độ giao diện sáng hoặc tối.",
+        "images": [
+          "images/portfolio/react-portfolio/pr1.jpg",
+          "images/portfolio/react-portfolio/pr2.jpg"
+        ],
+        "url": "https://github.com/blueneons/intern-portfolio",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Flutter e-commerce app",
+        "startDate": "2023",
+        "description": "Dự án cá nhân cho môn học ở trường của tôi. Tôi đảm nhận việc thiết kế và code giao diện UI-UX cho ứng dụng, bao gồm việc tạo ra một giao diện hấp dẫn và thân thiện với người dùng cho ứng dụng, đồng thời xem xét cách người dùng sẽ tương tác với nó.",
+        "images": [
+          "images/portfolio/e-commerce_app/e-commerce_app1.png",
+          "images/portfolio/e-commerce_app/e-commerce_app2.png",
+          "images/portfolio/e-commerce_app/e-commerce_app3.png"
+        ],
+        "url": "https://github.com/hieu20022002/ecommerce",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-dart-plain",
+            "name": "Dart"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Đại học Công nghệ thông tin - Đại học quốc gia Việt Nam",
+        "title": "Hệ thống thông tin",
+        "years": "09.2021 - nay",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "C++",
+          "SQL",
+          "Java",
+          "Flutter-Dart",
+          "Firebase",
+          "GitHub"
+        ]
+      },
+      {
+        "company": "Freelancer",
+        "title": "Intern Developer",
+        "years": "07.2023 - nay",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "TypeScript",
+          "React",
+          "Redux",
+          "HTML",
+          "GitHub"
+        ]
+      }
+    ]
+  }
