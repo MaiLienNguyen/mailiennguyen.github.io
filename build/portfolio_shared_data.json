@@ -1,0 +1,64 @@
+{
+    "basic_info": {
+      "name": "Mai Lien Nguyen",
+      "titles": [ "Intern Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/MaiLienNguyen",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mailienn0202/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML ",
+          "class": "devicon-html5-plain",
+          "level": ""
+        },
+        
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": ""
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": ""
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": ""
+        },
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": ""
+        },
+        {
+          "name": "Dart",
+          "class": "devicon-dart-plain",
+          "level": ""
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": ""
+        }
+      ]
+    }
+  }
